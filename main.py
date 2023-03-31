@@ -36,7 +36,7 @@ class ExtractInfo():
 
     def get_text(self):
 
-        folder_path = "/Users/omermersin/Developer/ex-pdf/"  # Replace with the path to your folder
+        folder_path = "."  # Replace with the path to your folder
 
         # Loop through each file in the folder
         for file_name in os.listdir(folder_path):
