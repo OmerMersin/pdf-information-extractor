@@ -5,4 +5,4 @@ Program that extracts the applicant's name, surname and email information from t
 pip3 install -r requirements.txt
 
 ## Usage
-python3 main.py <pdf-file-to-extract>
+python3 main.py \<pdf-file-to-extract\>
